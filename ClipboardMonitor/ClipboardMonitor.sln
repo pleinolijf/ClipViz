@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipMon", "ClipMon.csproj", "{1BDEEB9D-4CE8-4FF9-A521-86887D105EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardHelper", "..\ClipboardHelper\ClipboardHelper.csproj", "{96F141A5-7A4F-4063-A198-290CE12ACE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDEEB9D-4CE8-4FF9-A521-86887D105EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDEEB9D-4CE8-4FF9-A521-86887D105EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDEEB9D-4CE8-4FF9-A521-86887D105EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDEEB9D-4CE8-4FF9-A521-86887D105EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F141A5-7A4F-4063-A198-290CE12ACE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F141A5-7A4F-4063-A198-290CE12ACE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F141A5-7A4F-4063-A198-290CE12ACE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F141A5-7A4F-4063-A198-290CE12ACE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

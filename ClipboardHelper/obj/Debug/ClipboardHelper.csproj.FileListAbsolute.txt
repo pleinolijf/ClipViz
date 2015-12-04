@@ -1,0 +1,5 @@
+C:\Personal\OneDrive\Source Code\Personal\ClipboardMonitor\ClipboardHelper\bin\Debug\ClipboardHelper.dll
+C:\Personal\OneDrive\Source Code\Personal\ClipboardMonitor\ClipboardHelper\bin\Debug\ClipboardHelper.pdb
+C:\Personal\OneDrive\Source Code\Personal\ClipboardMonitor\ClipboardHelper\obj\Debug\ClipboardHelper.csprojResolveAssemblyReference.cache
+C:\Personal\OneDrive\Source Code\Personal\ClipboardMonitor\ClipboardHelper\obj\Debug\ClipboardHelper.dll
+C:\Personal\OneDrive\Source Code\Personal\ClipboardMonitor\ClipboardHelper\obj\Debug\ClipboardHelper.pdb
